@@ -34,7 +34,7 @@ As the IMDB dataset is available freely for download, I have made the dataset av
 [](https://github.com/pulkitjaiswal/movie-success-model#results#results)Results
 ------------------------------------------------------------
 
-The main findings of the code can be found at the post available [here](https://medium.com).
+The main findings of the code can be found at the post available [here](https://medium.com/@jaisw.al/what-makes-a-movie-a-commercial-success-6f2274616714).
 
 [](https://github.com/pulkitjaiswal/movie-success-model#results#licensing-authors-acknowledgements)Licensing, Authors, Acknowledgements
 --------------------------------------------------------------------------------------------------------------------
